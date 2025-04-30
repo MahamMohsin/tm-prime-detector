@@ -47,4 +47,4 @@ To simulate the working of a Turing Machine that checks whether a number is prim
   pip install pillow
 ### ▶️ Launch GUI
 ```bash
-python gui.py
+  python gui.py
